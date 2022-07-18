@@ -1,0 +1,34 @@
+[
+  {
+    "h1": "Product",
+    "links": ["Download", "Nitro", "Status"]
+  },
+  {
+    "h1": "Company",
+    "links": ["About", "Jobs", "Branding", "Newsroom"]
+  },
+  {
+    "h1": "Resources",
+    "links": [
+      "College",
+      "Support",
+      "Safety",
+      "Blog",
+      "Feedback",
+      "Developers",
+      "StreamKit"
+    ]
+  },
+  {
+    "h1": "Policies",
+    "links": [
+      "Terms",
+      "Privacy",
+      "Cookie Setting",
+      "Guidelines",
+      "Acknowledgements",
+      "Licenses",
+      "Moderation"
+    ]
+  }
+]
