@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sehgxl/Discord-UI-Clone/static/css/main.0af2eab0.css",
-    "main.js": "/sehgxl/Discord-UI-Clone/static/js/main.a69ab803.js",
+    "main.js": "/sehgxl/Discord-UI-Clone/static/js/main.38cf1a9c.js",
     "static/media/hanging_out_easy_landing.svg": "/sehgxl/Discord-UI-Clone/static/media/hanging_out_easy_landing.76aa061defcd84b0b1be95f7fe43fc55.svg",
     "static/media/invite_only_landing.svg": "/sehgxl/Discord-UI-Clone/static/media/invite_only_landing.01a90db7884c5a12e78cf5f0555a8dff.svg",
     "static/media/fandom_landing.svg": "/sehgxl/Discord-UI-Clone/static/media/fandom_landing.e11d964d89cc1656aa2fd855f2211e0e.svg",
@@ -37,10 +37,10 @@
     "static/media/inbox_icon.svg": "/sehgxl/Discord-UI-Clone/static/media/inbox_icon.a525e28e6ccbef77cc2a32de86667e12.svg",
     "static/media/plus_icon.svg": "/sehgxl/Discord-UI-Clone/static/media/plus_icon.b9c54d5058ea2e40572abf7f4bf0f827.svg",
     "main.0af2eab0.css.map": "/sehgxl/Discord-UI-Clone/static/css/main.0af2eab0.css.map",
-    "main.a69ab803.js.map": "/sehgxl/Discord-UI-Clone/static/js/main.a69ab803.js.map"
+    "main.38cf1a9c.js.map": "/sehgxl/Discord-UI-Clone/static/js/main.38cf1a9c.js.map"
   },
   "entrypoints": [
     "static/css/main.0af2eab0.css",
-    "static/js/main.a69ab803.js"
+    "static/js/main.38cf1a9c.js"
   ]
 }
