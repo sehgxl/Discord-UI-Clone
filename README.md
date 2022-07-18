@@ -3,7 +3,6 @@
 
 ## [Run](https://discord-ui-clone-three.vercel.app/)
 
-![Discord Clone Gif ](https://user-images.githubusercontent.com/83122406/179512749-a518dd3b-2462-413f-a809-c4b15f0599b5.gif)
-
+![Discord Clone Gif ](https://user-images.githubusercontent.com/83122406/179514839-e0e2e605-026c-45fd-bf07-8b1564a3095d.gif)
 
 Made Using HTML, CSS, JS and React
